@@ -1,4 +1,4 @@
-Testovaci componenta
+Test extractor
 =============
 
 Description
@@ -63,7 +63,7 @@ Clone this repository, init the workspace and run the component with following
 command:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/hrobsky/revolt-bi.ex-testah revolt-bi.ex-testah
+git clone https://github.com/HrobskyAles/revolt-bi.ex-testah revolt-bi.ex-testah
 cd revolt-bi.ex-testah
 docker-compose build
 docker-compose run --rm dev
