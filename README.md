@@ -1,4 +1,4 @@
-Test AH component
+Testovaci componenta
 =============
 
 Description
